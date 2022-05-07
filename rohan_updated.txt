@@ -8,3 +8,8 @@ same file edit check
 function rest() {
     
 }
+
+
+function 123() {
+    
+}
